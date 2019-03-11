@@ -1,0 +1,4 @@
+dim i,j
+i=2
+j=3
+msgbox(i+j)
